@@ -2,36 +2,33 @@
 
 ## Quasar Framework Documentation
 
-> Build responsive Single Page Apps, **SSR Apps**, PWAs, Hybrid Mobile Apps and Electron Apps, all using the same codebase!, powered with Vue.
+Essa é uma copia da Documentação do [Quasar](https://quasar.dev/) na versão 1.4.1 pois o site não esta disponivel.
 
-[![Join the chat at https://discord.gg/5TDhbDg](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/5TDhbDg)
-<a href="https://forum.quasar.dev" target="_blank"><img src="https://img.shields.io/badge/community-forum-brightgreen.svg"></a>
-[![https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg](https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg)](https://good-labs.github.io/greater-good-affirmation)
+### Depedencia 
 
-## Supporting Quasar
-Quasar Framework is an MIT-licensed open source project. Its ongoing development is made possible thanks to the support by these awesome [backers](https://github.com/rstoenescu/quasar-framework/blob/dev/backers.md).
+> Node v10 ou superior  
+> NPM v6 ou superior  
+> Quasar v1 ou superior
 
-**Please read our manifest on [Why donations are important](https://quasar.dev/why-donate)**. If you'd like to become a donator, check out [Quasar Framework's Donator campaign](https://donate.quasar.dev).
 
-## Documentation
+### Baixe o repositorio
 
-Head on to the Quasar Framework official website: [https://quasar.dev](https://quasar.dev)
+> git clone https://github.com/G3ra1d0/quasar-doc.git
 
-## Stay in Touch
+### Entre na pagina
 
-For latest releases and announcements, follow on Twitter: [@quasarframework](https://twitter.com/quasarframework)
+> cd quasar-doc/
 
-## Chat Support
+### Instale as depedencias
 
-Ask questions at the official community Discord server: [https://chat.quasar.dev](https://chat.quasar.dev)
+> npm i
 
-## Community Forum
+### Start o projeto
 
-Head on to the official community forum: [https://forum.quasar.dev](https://forum.quasar.dev)
+> quasar dev
+  
 
-## Semver
-Using [semver 2.0](http://semver.org/) notation for 'quasar-extras' package.
+![Captura de Tela_selecionar área_20191112123649](https://user-images.githubusercontent.com/46326067/68680747-fa15cd00-0540-11ea-9d17-884c2e4c0fa3.png)
+  
+Bom trabalho ou bons estudos ;)  
 
-## License
-
-All assets included in this repository are exclusive property of their respective owners. Quasar does not take any credit in packages included here.
